@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ViewModels="clr-namespace:prenatal.mobile.app.ViewModels"
+             x:Class="prenatal.mobile.app.Views.Doctor.DoctorPatients">
+    <ContentPage.BindingContext>
+        <ViewModels:DoctorsPatients></ViewModels:DoctorsPatients>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="{Binding _username}"/>
+                        <Span Text="'s patients : "/>
+                    </FormattedString>
+                </Label.FormattedText>
+
+            </Label>
+            <ListView ItemsSource="{Binding Patients, Mode=TwoWay }" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10" ColumnSpacing="5" HorizontalOptions="StartAndExpand" VerticalOptions="FillAndExpand">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <!--<RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />-->
+
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <!--<ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />-->
+                                </Grid.ColumnDefinitions>
+                                <Label Grid.Row="0" Grid.Column="0" Text="{Binding Id}" />
+                                <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}" FontAttributes="Bold" />
+                                <Label Grid.Row="0" Grid.Column="2" Text="{Binding Surname}" FontAttributes="Bold" />
+                                <!--<Label Grid.Row="0" Grid.Column="3" Text="{Binding HasMR }" />-->
+                                <!--<Label Grid.Row="0" Grid.Column="3" Text="{Binding Email }" />-->
+                                <Label Grid.Row="0" Grid.Column="3" Text="{Binding PhoneNumber }" />
+                                
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

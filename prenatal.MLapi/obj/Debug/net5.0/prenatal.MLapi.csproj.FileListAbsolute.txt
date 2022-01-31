@@ -1,0 +1,132 @@
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\MLModel.zip
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.deps.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.runtimeconfig.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.runtimeconfig.dev.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\ref\prenatal.MLapi.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.Extensions.ML.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Core.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Data.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.FastTree.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.AssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\staticwebassets\prenatal.MLapi.StaticWebAssets.Manifest.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\staticwebassets\prenatal.MLapi.StaticWebAssets.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\scopedcss\bundle\prenatal.MLapi.styles.css
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.RazorTargetAssemblyInfo.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\ref\prenatal.MLapi.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.genruntimeconfig.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\MLModel.zip
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.exe
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.deps.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.runtimeconfig.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.runtimeconfig.dev.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\ref\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.Extensions.ML.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Core.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Data.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.FastTree.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.AssemblyInfoInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.AssemblyInfo.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\staticwebassets\prenatal.MLapi.StaticWebAssets.Manifest.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\staticwebassets\prenatal.MLapi.StaticWebAssets.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\scopedcss\bundle\prenatal.MLapi.styles.css
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.RazorTargetAssemblyInfo.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\ref\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.genruntimeconfig.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.CopyComplete
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\MLModel.zip
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.StaticWebAssets.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.exe
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.deps.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.runtimeconfig.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.runtimeconfig.dev.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\ref\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\prenatal.MLapi.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.Extensions.ML.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Core.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Data.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Microsoft.ML.FastTree.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\bin\Debug\net5.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.AssemblyInfoInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.AssemblyInfo.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\scopedcss\bundle\prenatal.MLapi.styles.css
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\staticwebassets\prenatal.MLapi.StaticWebAssets.Manifest.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.RazorTargetAssemblyInfo.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.csproj.CopyComplete
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\ref\prenatal.MLapi.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.MLapi\obj\Debug\net5.0\prenatal.MLapi.genruntimeconfig.cache

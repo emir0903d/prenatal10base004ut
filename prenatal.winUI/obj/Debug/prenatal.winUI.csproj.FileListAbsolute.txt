@@ -1,0 +1,781 @@
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.Users.frmUsers.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.Users.frmUsers.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.winUI\obj\Debug\prenatal.winUI.frmIndex.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.frmIndex.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.Users.frmCRUD.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.Users.frmUsers.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.Users.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.DoctorPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.frmMR.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.DoctorsPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.Users.AdminPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.winUI\obj\Debug\prenatal.winUI.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.Users.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.Users.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v3\RS2_PRENATAL_V1 v3\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms3 -docker\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.frm2FALogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.frmProfile.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtTemperature.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.PatientsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.AssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.frm2FALogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.frmProfile.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtTemperature.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.PatientsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtPressure.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtRates.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtHeightWeight.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmLostPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPhotos.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPartners.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmHistory.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmGlucose.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmFiles.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\PdfiumViewer.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\PdfiumViewer.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\x86\pdfium.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.winUI\bin\Debug\x64\pdfium.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\x86\pdfium.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\x64\pdfium.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\PdfiumViewer.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\PdfiumViewer.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.AssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.frm2FALogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.frmProfile.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmFiles.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmGlucose.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmHistory.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmLostPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPartners.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPhotos.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtHeightWeight.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtPressure.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtRates.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtTemperature.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.PatientsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -002\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\x86\pdfium.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\x64\pdfium.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\PdfiumViewer.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\PdfiumViewer.xml
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.AssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.frm2FALogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.frmProfile.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmFiles.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmGlucose.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmHistory.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmLostPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPartners.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPhotos.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtHeightWeight.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtPressure.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtRates.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtTemperature.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.PatientsPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\x86\pdfium.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\x64\pdfium.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\PdfiumViewer.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\PdfiumViewer.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.frm2FALogin.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.frmProfile.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmFiles.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmGlucose.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmHistory.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmLostPregnancies.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPartners.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPhotos.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtHeightWeight.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtPressure.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtRates.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtTemperature.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.PatientsPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.AdminPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.winUI\obj\Debug\prenatal.winUI.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\x86\pdfium.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\x64\pdfium.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\prenatal.winUI.exe.config
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\prenatal.winUI.exe
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\prenatal.winUI.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\Flurl.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\Flurl.Http.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\PdfiumViewer.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\Flurl.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\Flurl.Http.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\PdfiumViewer.xml
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.exe.config
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.frm2FALogin.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.frmProfile.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.DoctorsPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.frmLogin.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmFiles.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmGlucose.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmHistory.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmLostPregnancies.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPartners.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPhotos.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrescriptions.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmPrevPregnancies.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmReferrals.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmSubstances.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmTherapies.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmUltrasounds.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.FrontPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelDoctor.frmVitalSign.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtHeightWeight.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtPressure.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtRates.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.frmChrtTemperature.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelPatient.PatientsPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.Properties.Resources.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.PanelAdmin.AdminPanel.resources
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.GenerateResource.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.csproj.CopyComplete
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.exe
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.winUI\obj\Debug\prenatal.winUI.pdb

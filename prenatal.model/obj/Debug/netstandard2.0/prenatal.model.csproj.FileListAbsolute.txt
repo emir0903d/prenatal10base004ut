@@ -1,0 +1,235 @@
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\source\repos\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  BASE\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI - CRUD\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 - winUI -  filters\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v2\RS2_PRENATAL_V1 v2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v4\RS2_PRENATAL_V1 v4\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\dedice\Desktop\RS2_PRENATAL_V1 v5\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v6\RS2_PRENATAL_V1 v6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 1\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 v10 - xamarin 2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.AssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -001\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.AssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8base -006\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.deps.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\bin\Debug\netstandard2.0\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfoInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.AssemblyInfo.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.model\obj\Debug\netstandard2.0\prenatal.model.pdb

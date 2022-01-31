@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ViewModels="clr-namespace:prenatal.mobile.app.ViewModels"
+             x:Class="prenatal.mobile.app.Views.Admin.AdminPage">
+    <ContentPage.BindingContext>
+        <ViewModels:Admins></ViewModels:Admins>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Admin page!" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Picker Title="List by status:" ItemsSource="{Binding userStatuses }" SelectedItem="{Binding SelectedStatus}"></Picker>
+            <ListView ItemsSource="{Binding Users, Mode=TwoWay }" ItemTapped="ListView_ItemTapped" ItemSelected="ListView_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <!--<RowDefinition Height="Auto" />-->
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <!--<Label Grid.Column="1" Text="{Binding Id}" FontSize="Small" />-->
+                                <Label Grid.Column="2" Text="{Binding Name}" FontSize="Small" FontAttributes="Bold" />
+                                <Label Grid.Column="3" Text="{Binding Surname}" FontSize="Small" FontAttributes="Bold"/>
+                                <Label Grid.Column="4" Text="{Binding Username}" FontSize="Small" FontAttributes="Italic" />
+                                <Label Grid.Column="5" Text="{Binding Status}" FontSize="Small" />
+                                <Label Grid.Column="6" Text="{Binding Type}" FontSize="Small" />
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ViewModels="clr-namespace:prenatal.mobile.app.ViewModels" xmlns:controls="clr-namespace:XamForms.Controls;assembly=XamForms.Controls.Calendar"
+             x:Class="prenatal.mobile.app.Views.Patient.Calendar">
+    <ContentPage.BindingContext>
+        <ViewModels:PatientsCalendar></ViewModels:PatientsCalendar>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <controls:Calendar x:Name="xcalendar" Padding="10,10,10,10"  
+                   SelectedBorderWidth="2"   
+                   DisabledBorderColor="Black"
+                   BorderWidth="1"
+                   DatesTextColor="DarkBlue"
+                   WeekdaysTextColor="DarkBlue"
+                   ShowNumberOfWeek="false"  
+                   StartDay="Monday"
+                   TitleLabelTextColor="DarkBlue"  
+                   TitleLeftArrowTextColor="DarkBlue"
+                   TitleRightArrowTextColor="DarkBlue"
+                   SelectedDate="{Binding Date}"  
+                   SpecialDates="{Binding SpecialDates, Mode=TwoWay}"
+                   DateCommand="{Binding DateChosen}"
+                   DateClicked ="xcalendar_DateClicked"
+                   MinimumHeightRequest="300">
+
+            </controls:Calendar>
+            <Grid x:Name="rootGrid"></Grid>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

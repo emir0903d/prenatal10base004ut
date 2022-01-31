@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ViewModels="clr-namespace:prenatal.mobile.app.ViewModels"
+             x:Class="prenatal.mobile.app.Views.Doctor.CalendarAppointment">
+    <ContentView.BindingContext>
+        <ViewModels:DoctorsCalendar></ViewModels:DoctorsCalendar></ContentView.BindingContext>
+  <ContentView.Content>
+      <StackLayout>
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="{Binding _username}"/>
+                        <Span Text="'s Appointments : "/>
+                    </FormattedString>
+                </Label.FormattedText>
+                
+            </Label>
+            <ListView x:Name="Events" ItemsSource="{Binding TodayEvents}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell Tapped="ViewCell_Tapped" >
+                            <Grid Padding="0" ColumnSpacing="5" HorizontalOptions="Fill" VerticalOptions="Fill">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                
+                                <Label x:Name="Id" Grid.Row="0" Grid.Column="0" Text="{Binding Id}" FontAttributes="Bold" IsVisible="false"/>
+                                <Label Grid.Row="0" Grid.Column="1" Text="{Binding Time, StringFormat='{}{0:H:mm}'}" FontAttributes="Bold" />
+
+                                <Label x:Name="Status" Grid.Row="1" Grid.Column="2" Text="{Binding Status}" FontAttributes="Bold" />
+                                <Label x:Name="Pname" Grid.Row="1" Grid.Column="3" Text="{Binding Patient.Name}" FontAttributes="Bold" />
+                                <Label x:Name="Psurname" Grid.Row="1" Grid.Column="4" Text="{Binding Patient.Surname}" FontAttributes="Bold" />
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

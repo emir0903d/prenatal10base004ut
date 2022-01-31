@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "839AB80yuqWV6xDq0Yr7d/X4VpmIRvl5aTpwVosZl2t5C0WaGNSETKy/D1IPSGxDWV9RYPTzL+IYaFsEUzgPnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fun\\Desktop\\RS2 - PRENATAL - VERZIJE\\rs2_prenatal - 10base 004UT\\prenatal.mobile.app\\prenatal.mobile.app.iOS\\prenatal.mobile.app.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fun\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",
+    "C:\\Users\\Fun\\.nuget\\packages\\flurl.http\\2.4.2\\flurl.http.2.4.2.nupkg.sha512",
+    "C:\\Users\\Fun\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Fun\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fun\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Fun\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Fun\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
+    "C:\\Users\\Fun\\.nuget\\packages\\xamforms.enhanced.calendar\\1.4.0\\xamforms.enhanced.calendar.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModels="clr-namespace:prenatal.mobile.app.ViewModels"
+             xmlns:controls="clr-namespace:XamForms.Controls;assembly=XamForms.Controls.Calendar"
+             x:Class="prenatal.mobile.app.Views.Doctor.CalendarPage">
+    <ContentPage.BindingContext>
+        <ViewModels:DoctorsCalendar></ViewModels:DoctorsCalendar>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            
+           
+                
+                    <Grid x:Name="rootGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="300" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                
+                            <controls:Calendar x:Name="xcalendar" Padding="10,10,10,10" Grid.Row="0" 
+                                                  
+                   SelectedBorderWidth="2"   
+                   DisabledBorderColor="Black"
+                   BorderWidth="1"
+                   DatesTextColor="DarkBlue"
+                   WeekdaysTextColor="DarkBlue"
+                   ShowNumberOfWeek="false"  
+                   StartDay="Monday"
+                   TitleLabelTextColor="DarkBlue"  
+                   TitleLeftArrowTextColor="DarkBlue"
+                   TitleRightArrowTextColor="DarkBlue"
+                   SelectedDate="{Binding Date}"  
+                   SpecialDates="{Binding SpecialDates, Mode=TwoWay}"
+                   DateCommand="{Binding DateChosen}"
+                   DateClicked="Calendar_DateClicked" 
+                   MinimumHeightRequest="300">
+
+                            </controls:Calendar>
+   
+                    
+           
+                       
+                    </Grid>
+        </StackLayout>
+
+
+
+    </ContentPage.Content>
+</ContentPage>

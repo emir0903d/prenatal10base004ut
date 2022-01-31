@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ViewModels="clr-namespace:prenatal.mobile.app.ViewModels"
+             x:Class="prenatal.mobile.app.Views.LoginPage">
+    <ContentPage.BindingContext>
+        <ViewModels:Login></ViewModels:Login>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+
+        <StackLayout Padding="10" VerticalOptions="StartAndExpand" HorizontalOptions="Center">
+            <Label Text="Welcome to PRENATAL!"></Label>
+            <Label Text="Username"></Label>
+            <Entry x:Name="Username" Text="{Binding Username}"></Entry>
+            <Label Text="Password"></Label>
+            <Entry x:Name="Password" IsPassword="True" Text="{Binding Password}"></Entry>
+            <Button x:Name="LoginButton" Command="{Binding LoginCommand}" Text="Login"></Button>
+            <Button x:Name="RegisterButton" Text="Register" Clicked="RegisterButton_Clicked"></Button>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props" Condition="Exists('..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props')" />
+  <Import Project="..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props" Condition="Exists('..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7AFD89ED-AAD2-4837-9956-DDE094177ED4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>prenatal.winUI</RootNamespace>
+    <AssemblyName>prenatal.winUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Flurl, Version=2.8.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.2.8.2\lib\net40\Flurl.dll</HintPath>
+    </Reference>
+    <Reference Include="Flurl.Http, Version=2.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.Http.2.4.2\lib\net46\Flurl.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfiumViewer, Version=2.13.0.0, Culture=neutral, PublicKeyToken=91e4789cfb0609e0, processorArchitecture=MSIL">
+      <HintPath>..\packages\PdfiumViewer.2.13.0.0\lib\net20\PdfiumViewer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm2FALogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm2FALogin.Designer.cs">
+      <DependentUpon>frm2FALogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProfile.Designer.cs">
+      <DependentUpon>frmProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\DoctorsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\DoctorsPanel.Designer.cs">
+      <DependentUpon>DoctorsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmFiles.Designer.cs">
+      <DependentUpon>frmFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmGlucose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmGlucose.Designer.cs">
+      <DependentUpon>frmGlucose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmHistory.Designer.cs">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmLostPregnancies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmLostPregnancies.Designer.cs">
+      <DependentUpon>frmLostPregnancies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPartners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPartners.Designer.cs">
+      <DependentUpon>frmPartners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPhotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPhotos.Designer.cs">
+      <DependentUpon>frmPhotos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPrescriptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPrescriptions.Designer.cs">
+      <DependentUpon>frmPrescriptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPrevPregnancies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmPrevPregnancies.Designer.cs">
+      <DependentUpon>frmPrevPregnancies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmReferrals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmReferrals.Designer.cs">
+      <DependentUpon>frmReferrals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmSubstances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmSubstances.Designer.cs">
+      <DependentUpon>frmSubstances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmTherapies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmTherapies.Designer.cs">
+      <DependentUpon>frmTherapies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmUltrasounds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmUltrasounds.Designer.cs">
+      <DependentUpon>frmUltrasounds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrontPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrontPanel.Designer.cs">
+      <DependentUpon>FrontPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDoctor\frmVitalSign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelDoctor\frmVitalSign.Designer.cs">
+      <DependentUpon>frmVitalSign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtHeightWeight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtHeightWeight.Designer.cs">
+      <DependentUpon>frmChrtHeightWeight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtPressure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtPressure.Designer.cs">
+      <DependentUpon>frmChrtPressure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtRates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtRates.Designer.cs">
+      <DependentUpon>frmChrtRates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtTemperature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelPatient\frmChrtTemperature.Designer.cs">
+      <DependentUpon>frmChrtTemperature.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelPatient\PatientsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelPatient\PatientsPanel.Designer.cs">
+      <DependentUpon>PatientsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Services\PredictService.cs" />
+    <Compile Include="Services\_2FAService.cs" />
+    <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Services\APIservice.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PanelAdmin\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelAdmin\AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm2FALogin.resx">
+      <DependentUpon>frm2FALogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProfile.resx">
+      <DependentUpon>frmProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\DoctorsPanel.resx">
+      <DependentUpon>DoctorsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmFiles.resx">
+      <DependentUpon>frmFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmGlucose.resx">
+      <DependentUpon>frmGlucose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmHistory.resx">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmLostPregnancies.resx">
+      <DependentUpon>frmLostPregnancies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmPartners.resx">
+      <DependentUpon>frmPartners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmPhotos.resx">
+      <DependentUpon>frmPhotos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmPrescriptions.resx">
+      <DependentUpon>frmPrescriptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmPrevPregnancies.resx">
+      <DependentUpon>frmPrevPregnancies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmReferrals.resx">
+      <DependentUpon>frmReferrals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmSubstances.resx">
+      <DependentUpon>frmSubstances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmTherapies.resx">
+      <DependentUpon>frmTherapies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmUltrasounds.resx">
+      <DependentUpon>frmUltrasounds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrontPanel.resx">
+      <DependentUpon>FrontPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelDoctor\frmVitalSign.resx">
+      <DependentUpon>frmVitalSign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelPatient\frmChrtHeightWeight.resx">
+      <DependentUpon>frmChrtHeightWeight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelPatient\frmChrtPressure.resx">
+      <DependentUpon>frmChrtPressure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelPatient\frmChrtRates.resx">
+      <DependentUpon>frmChrtRates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelPatient\frmChrtTemperature.resx">
+      <DependentUpon>frmChrtTemperature.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelPatient\PatientsPanel.resx">
+      <DependentUpon>PatientsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PanelAdmin\AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\prenatal.model\prenatal.model.csproj">
+      <Project>{ad2ff79a-9c9e-4407-a649-c5cd8f94b18f}</Project>
+      <Name>prenatal.model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props'))" />
+    <Error Condition="!Exists('..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props'))" />
+  </Target>
+</Project>

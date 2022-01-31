@@ -1,0 +1,745 @@
+﻿{
+  "TrainingConfigurationVersion": 0,
+  "TrainingTime": 300,
+  "Scenario": {
+    "ScenarioType": "Classification"
+  },
+  "DataSource": {
+    "ColumnProperties": [
+      {
+        "ColumnName": "Heart",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "Single",
+        "IsCategorical": false
+      },
+      {
+        "ColumnName": "Movement",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "Boolean",
+        "IsCategorical": true
+      },
+      {
+        "ColumnName": "Nuchal",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "Boolean",
+        "IsCategorical": true
+      },
+      {
+        "ColumnName": "Anomaly",
+        "ColumnPurpose": "Label",
+        "ColumnDataFormat": "Boolean",
+        "IsCategorical": true
+      },
+      {
+        "ColumnName": "Note",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false
+      }
+    ],
+    "HasHeader": true,
+    "Delimiter": "\t",
+    "DecimalMarker": ".",
+    "DataSourceType": "TabularFile",
+    "FilePath": "C:\\Users\\EmirDedic\\Desktop\\data2.tsv"
+  },
+  "Environment": {
+    "EnvironmentType": "LocalCPU"
+  },
+  "RunHistory": {
+    "Trials": [
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 4.9250001907348633
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4889999628067017
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4570000171661377
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4919999837875366
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5499999523162842
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4630000591278076
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.2599999904632568
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1480000019073486
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1949999332427979
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.50600004196167
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.7519999742507935
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1719999313354492
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4290000200271606
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4769999980926514
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5010000467300415
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1860001087188721
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4550000429153442
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5720000267028809
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.472000002861023
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.128000020980835
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3789999485015869
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5479999780654907
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.312000036239624
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.2160000801086426
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.2730000019073486
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.2360000610351562
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3010001182556152
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 3.4179999828338623
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3619999885559082
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3410000801086426
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.124000072479248
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4809999465942383
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4759999513626099
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3410000801086426
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.722000002861023
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.01200008392334
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.0580000877380371
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1110000610351562
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1110000610351562
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.0539999008178711
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.0720000267028809
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1429998874664307
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.2109999656677246
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1659998893737793
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.0109999179840088
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.0910000801086426
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.0759999752044678
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.119999885559082
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.062000036239624
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4930000305175781
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4700000286102295
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4910000562667847
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1700000762939453
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1979999542236328
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1749999523162842
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4529999494552612
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4600000381469727
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5279999971389771
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4850000143051148
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.0869998931884766
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4529999494552612
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.1830000877380371
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3399999141693115
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5349999666213989
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.619999885559082
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.6139999628067017
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.531000018119812
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4860000610351562
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.659000039100647
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5509999990463257
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.48799991607666
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5239999294281006
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.6469999551773071
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3190000057220459
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.8070000410079956
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.8650000095367432
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3229999542236328
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.6080000400543213
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.7239999771118164
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 3.1819999217987061
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5720000267028809
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.562000036239624
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5520000457763672
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 4.1360001564025879
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5329999923706055
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5759999752044678
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.6029999256134033
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.6419999599456787
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.6289999485015869
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.2339999675750732
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.7390000820159912
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5139999389648438
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4509999752044678
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.6599999666213989
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5209999084472656
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.11899995803833
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 3.1740000247955322
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4619998931884766
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5520000457763672
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.6169999837875366
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.2209999561309814
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4249999523162842
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.4910000562667847
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4159998893737793
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1.5420000553131104
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.3440001010894775
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.8410000801086426
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4719998836517334
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.371999979019165
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4530000686645508
+      },
+      {
+        "TrainerName": "FastTreeBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 3.0639998912811279
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4509999752044678
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 3.0520000457763672
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.4500000476837158
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.7430000305175781
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.7219998836517334
+      },
+      {
+        "TrainerName": "FastForestBinary",
+        "Score": 1.0,
+        "RuntimeInSeconds": 2.5780000686645508
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.13700008392334
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.744999885559082
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1480000019073486
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1689999103546143
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1099998950958252
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.13100004196167
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.2190001010894775
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.2060000896453857
+      },
+      {
+        "TrainerName": "LbfgsLogisticRegressionBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 1.4440000057220459
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.2049999237060547
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.3159999847412109
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.125
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.11899995803833
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1689999103546143
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1579999923706055
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1740000247955322
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1679999828338623
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1019999980926514
+      },
+      {
+        "TrainerName": "LightGbmBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 2.1349999904632568
+      },
+      {
+        "TrainerName": "SdcaLogisticRegressionBinary",
+        "Score": 0.94198059165987646,
+        "RuntimeInSeconds": 1.2300000190734863
+      },
+      {
+        "TrainerName": "SdcaLogisticRegressionBinary",
+        "Score": 0.058019408340123514,
+        "RuntimeInSeconds": 1.312000036239624
+      }
+    ],
+    "Pipeline": "[{\"EstimatorType\":\"OneHotEncoding\",\"Inputs\":[\"Movement\",\"Nuchal\"],\"Outputs\":[\"Movement\",\"Nuchal\"]},{\"EstimatorType\":\"ReplaceMissingValues\",\"Inputs\":[\"Heart\"],\"Outputs\":[\"Heart\"]},{\"EstimatorType\":\"FeaturizeText\",\"Inputs\":[\"Note\"],\"Outputs\":[\"Note\"]},{\"EstimatorType\":\"Concatenate\",\"Inputs\":[\"Movement\",\"Nuchal\",\"Heart\",\"Note\"],\"Outputs\":[\"Features\"]},{\"LabelColumnName\":\"Anomaly\",\"FeatureColumnName\":\"Features\",\"NumberOfTrees\":\"7\",\"FeatureFraction\":\"0.956079391588817\",\"EstimatorType\":\"FastForestBinary\",\"Inputs\":[\"Anomaly\"],\"Outputs\":[\"Features\"]},{\"LabelColumnName\":\"Anomaly\",\"ScoreColumnName\":\"Score\",\"EstimatorType\":\"Naive\",\"Inputs\":null,\"Outputs\":null}]",
+    "MetricName": "Accuracy"
+  }
+}

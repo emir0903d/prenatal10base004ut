@@ -1,0 +1,255 @@
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\AdminPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\AppointmentDetails.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\CalendarPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\DocPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv2-en\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\PatientsPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\AppointmentDetails.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\PatientsPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\user\Desktop\RS2_PRENATAL_V1 xamv3-pat2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\RegisterPage.xaml.g.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\user\Desktop\RS2_PRENATAL_V1 -wf -fin\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\RegisterPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -back to forms\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\RegisterPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\RS2_PRENATAL_V1 -fin frms2\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\RegisterPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -6\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csprojAssemblyReference.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\RegisterPage.xaml.g.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\EmirDedic\Desktop\rs2_prenatal -8\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\RegisterPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 002UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.deps.json
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.mobile.app.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\bin\Debug\netstandard2.1\prenatal.model.pdb
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.AssemblyReference.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Admin\AdminPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarAppointment.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\CalendarPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DocPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Doctor\DoctorsPatients.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\LoginPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\Calendar.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\Patient\CalendarEvents.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\Views\RegisterPage.xaml.g.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfoInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.AssemblyInfo.cs
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CoreCompileInputs.cache
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.csproj.CopyComplete
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\ref\prenatal.mobile.app.dll
+C:\Users\Fun\Desktop\rs2_prenatal - 10base 004UT\prenatal.mobile.app\prenatal.mobile.app\obj\Debug\netstandard2.1\prenatal.mobile.app.pdb

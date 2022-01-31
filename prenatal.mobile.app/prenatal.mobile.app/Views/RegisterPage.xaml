@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ViewModels="clr-namespace:prenatal.mobile.app.ViewModels"
+             x:Class="prenatal.mobile.app.Views.RegisterPage"
+             xmlns:behaviors ="clr-namespace:prenatal.mobile.app.Validations">
+             
+    <ContentPage.BindingContext>
+        <ViewModels:Register></ViewModels:Register>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+
+        <ScrollView>
+            <StackLayout>
+                <Grid Margin="20,0,20,0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        
+                    </Grid.RowDefinitions>
+
+                    <StackLayout Grid.Row="0">
+                        <Entry Placeholder="Name" FontSize="11" x:Name="EntName">
+                            <Entry.Behaviors>
+                                <behaviors:InfoValidationBehavior></behaviors:InfoValidationBehavior>
+                            </Entry.Behaviors>
+                        </Entry>
+                    </StackLayout>
+                    <StackLayout Grid.Row="1">
+                        <Entry Placeholder="Surname" FontSize="11" x:Name="EntSurname">
+                            <Entry.Behaviors>
+                                <behaviors:InfoValidationBehavior></behaviors:InfoValidationBehavior>
+                            </Entry.Behaviors>
+                        </Entry>
+                    </StackLayout>
+                    <StackLayout Grid.Row="2">
+                        <Entry Placeholder="E-mail" FontSize="11" x:Name="EntEmail">
+                            <Entry.Behaviors>
+                                <behaviors:EmailValidationBehavior></behaviors:EmailValidationBehavior>
+                            </Entry.Behaviors>
+                        </Entry>
+
+                    </StackLayout>
+                    <StackLayout Grid.Row="3">
+                        <Entry Placeholder="PhoneNumber" FontSize="11" x:Name="EntPhoneNumber"/>
+                    </StackLayout>
+                    <StackLayout Grid.Row="4">
+                        <Entry Placeholder="Gender" FontSize="11" x:Name="EntGender"/>
+                    </StackLayout>
+                    
+                    <StackLayout Grid.Row="5">
+                        <Picker Title="Choose AccType:" ItemsSource="{Binding userTypes}" SelectedItem="{Binding  SelectedType}" x:Name="PckType">
+                            <Picker.Behaviors>
+                                
+                            </Picker.Behaviors>
+                        </Picker>
+                    </StackLayout>
+
+                    <StackLayout Grid.Row="6">
+                        <Picker Title="Choose Doctor:" ItemsSource="{Binding Doctors}" x:Name="PckDoc" IsVisible="{Binding IsPatient}" ItemDisplayBinding="{Binding Name}" />
+                    </StackLayout>
+
+                    <StackLayout Grid.Row="7">
+                        <Button x:Name="subButton" Text="Register" HorizontalOptions="CenterAndExpand" TextColor="White" BackgroundColor="Blue" Clicked="Button_Clicked" IsEnabled="False"/>
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+        
+    </ContentPage.Content>
+</ContentPage>
